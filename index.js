@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
-//                                    IBRAHIM TECH BEST TECH EVER
+//                              GARRI MD ..., MADE BY GARRI TV 
+//                                     TECH BEST TECH EVER
 //
 //════════════════════════════//
 
